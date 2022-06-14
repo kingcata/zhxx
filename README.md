@@ -1,3 +1,9 @@
+# This is junk software.
+
+![image](https://user-images.githubusercontent.com/18386833/173503394-0daaf44c-2635-4869-865e-41cdd79cba2f.png)
+
+---
+
 # 智慧学习
 学习强国自动刷分，学习强国自动学习，学习强国自动答题，挑战答题题库。
 
